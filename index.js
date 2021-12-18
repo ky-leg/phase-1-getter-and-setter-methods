@@ -32,3 +32,5 @@ class Circle {
         this.radius = Math.sqrt(area/Math.PI)
     }
 }
+
+const circle = new Circle(2)
